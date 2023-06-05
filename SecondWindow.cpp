@@ -224,3 +224,4 @@ void SecondWindow::OnButtonCloseClicked(wxCommandEvent& event) {
 }
  
 SecondWindow::~SecondWindow() {}
+

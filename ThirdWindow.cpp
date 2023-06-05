@@ -138,7 +138,6 @@ ThirdWindow::ThirdWindow(wxWindow *parent) : wxFrame(parent, wxID_ANY, "Add Cock
             }
         }
         
-        
         sqlite3_close(db);
         wxMessageBox("Cocktail added to Db");
         this->Show(false); 

@@ -1,4 +1,4 @@
-// MainWindow.h
+
 #pragma once
 #include <stdio.h>
 #include <iostream>
@@ -13,7 +13,6 @@
 #include "SecondWindow.h"
 #include "ThirdWindow.h"
 
-//class SecondWindow;
 class MainWindow : public wxFrame {
 	private:	
 		void OnButtonClicked(wxCommandEvent &event);
@@ -37,5 +36,3 @@ class MainWindow : public wxFrame {
 		
 		~MainWindow();	
 };
-
-

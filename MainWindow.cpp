@@ -277,4 +277,3 @@ void MainWindow::OnButtonCloseClicked(wxCommandEvent& event) {
 }
 
 MainWindow::~MainWindow() {}
-

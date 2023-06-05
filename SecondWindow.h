@@ -1,4 +1,4 @@
-// SecondWindow.h
+
 #pragma once
 #include <stdio.h>
 #include <iostream>
@@ -12,7 +12,6 @@
 
 #include "MainWindow.h"
 
-//class MainWindow;
 class SecondWindow : public wxFrame {
 
 private:
